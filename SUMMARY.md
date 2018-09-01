@@ -1,11 +1,8 @@
 # Startup School
 
 
-* [Introduction](00-introduction.md)
-* [Author](00-about-author.md)
-* [Acknowledgements](00-acknowledgements.md)
-* [Sam Altman - How to Succeed with a Startup](01.md)
-* [02](02.md)
+* [YC Partners Adora Cheung and Geoff Ralston introduce Startup School 2018.](01.md)
+* [Sam Altman - How to Succeed with a Startup](02.md)
 * [03](03.md)
 * [04](04.md)
 * [05](05.md)
