@@ -3,7 +3,7 @@
 
 * [YC Partners Adora Cheung and Geoff Ralston introduce Startup School 2018.](01.md)
 * [Sam Altman - How to Succeed with a Startup](02.md)
-* [Carolynn Levy And Panel (Jon Levy, Jason Kwon) - Startup Legal Mechanics](03.md)
+* [Carolynn Levy And Panel (Jon Levy， Jason Kwon) - Startup Legal Mechanics](03.md)
 * [A Conversation with Paul Graham - Moderated by Geoff Ralston](04.md)
 * [David Rusenko - How To Find Product Market Fit](05.md)
 * [Michael Seibel - Building Product](06.md)
