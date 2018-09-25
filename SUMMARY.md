@@ -11,3 +11,6 @@
 * [Suhail Doshi - How to Measure Your Product](08.md)
 * [Gustaf Alstromer - How to Get Users and Grow](09.md)
 * [A Conversation with Andy Bromberg - Moderated by Geoff Ralston](10.md)
+* [Design for Startups by Garry Tan ](11.md)
+* [PR + Content for Growth by Kat Mañalac and Craig Cannon](12.md)
+* [A Conversation with Aileen Lee - Moderated by Geoff Ralston](13.md)
