@@ -14,3 +14,6 @@
 * [Design for Startups by Garry Tan ](11.md)
 * [PR + Content for Growth by Kat Mañalac and Craig Cannon](12.md)
 * [A Conversation with Aileen Lee - Moderated by Geoff Ralston](13.md)
+* [How to Sell by Tyler Bosmeny](14.md)
+* [Building an Engineering Team by Ammon Bartram and Harj Taggar](15.md)
+* [How to Apply and Succeed at Y Combinator by Dalton Caldwell](16.md)
