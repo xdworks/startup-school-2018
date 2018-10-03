@@ -1,4 +1,4 @@
-# Startup School
+# Startup School 2018
 
 
 * [YC Partners Adora Cheung and Geoff Ralston introduce Startup School 2018](01.md)
