@@ -17,3 +17,5 @@
 * [How to Sell by Tyler Bosmeny](14.md)
 * [Building an Engineering Team by Ammon Bartram and Harj Taggar](15.md)
 * [How to Apply and Succeed at Y Combinator by Dalton Caldwell](16.md)
+* [Running Your Company by Patrick Collison](17.md)
+* [A Conversation with Elizabeth Iorns: Advice for Biotech Founders](18.md)
