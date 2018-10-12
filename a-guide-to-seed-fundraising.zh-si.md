@@ -933,8 +933,7 @@ authoritative source.
 
 *资料来源*
 
-1.  [A Fundraising Survival
-    Guide](http://www.paulgraham.com/fundraising.html), **Paul
+1.  [A Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html), **Paul
     Graham** \
     Techniques for surviving and succeeding at fundraising
 
@@ -958,8 +957,7 @@ authoritative source.
 
 4.[启动资金的未来](http://paulgraham.com/future.html)，*Paul Graham*\启动资金是如何演变的)
 
-5.  [How to Convince
-    Investors](http://paulgraham.com/convince.html), **Paul Graham** \
+5.  [How to Convince Investors](http://paulgraham.com/convince.html), **Paul Graham** \
     How to convince investors to invest in you
 
 5.[如何说服投资者](http：/paulgraham.com/令人信服e.html)，*保罗格雷厄姆*\如何说服投资者投资你
@@ -970,15 +968,13 @@ authoritative source.
 
 6.[投资者羊群动力](http://paulgraham.com/herd.html)，*Paul Graham*投资者如何考虑投资早期公司
 
-7.  ["Venture
-    Deals"](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616), **Feld
+7.  ["Venture Deals"](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616), **Feld
     and Mendelson** \
     Essential elements of a venture deal (book)
 
 7.[“风险交易”](http：/www.amazon.com/Venture-Deals-Smarter-律师-Capital/DP/1118443616)，*Feld和Mendelson*\风险交易的基本要素(书)
 
-8.  [Raising Money for a
-    Startup](http://www.khanacademy.org/finance-economics/venture-capital-and-capital-markets/v/raising-money-for-a-startup), **Sal
+8.  [Raising Money for a    Startup](http://www.khanacademy.org/finance-economics/venture-capital-and-capital-markets/v/raising-money-for-a-startup), **Sal
     Khan** \
     Startup Fundraising from Sal Khan
 
@@ -991,15 +987,13 @@ authoritative source.
 
 9.[风险投资：债务或股权，](http：/venturehacks.com/条文/债务或股本)*Babak Nivi*\讨论债务与股本
 
-10. [Venture Hacks: First
-    Time](http://venturehacks.com/articles/first-time), **Babak
+10. [Venture Hacks: First Time](http://venturehacks.com/articles/first-time), **Babak
     Nivi** \
     Advice for first time fundraisers.
 
 10.[VentureHack：First Time](http：/venturehacks.com/条文/第一次)，*Babak Nivi*\第一次募捐者的建议。
 
-11. [How Much Money To
-    Raise](http://www.avc.com/a_vc/2011/07/how-much-money-to-raise.html), **Fred
+11. [How Much Money To Raise](http://www.avc.com/a_vc/2011/07/how-much-money-to-raise.html), **Fred
     Wilson** \
     Advice on how much money to raise.
 
@@ -1011,20 +1005,17 @@ authoritative source.
 
 12.[“Startup=Growth”](http：/www.paulgraham.com/growth th.html)，*Paul Graham*\描述一家初创公司。
 
-13. [Venture Hacks / Babk Nivi: Should I Raise Debt or
-    Equity](http://venturehacks.com/articles/debt-or-equity) \
+13. [Venture Hacks / Babk Nivi: Should I Raise Debt or    Equity](http://venturehacks.com/articles/debt-or-equity) \
     Discussion of whether raising debt or equity is the best answer.
 
 13.[VentureHack/BabkNivi：我应该提高债务还是股本](http：/venturehacks.com/条文/债务或股本)\讨论提高债务还是股本是最好的答案。
 
-14. [Fred Wilson: Financing
-    Options](http://www.avc.com/a_vc/2011/07/financing-options-convertible-debt.html) \
+14. [Fred Wilson: Financing    Options](http://www.avc.com/a_vc/2011/07/financing-options-convertible-debt.html) \
     Another discussion of debt vs. equity
 
 14.[弗雷德·威尔逊：融资方案](http：/www.avc.com/a_vc/2011/07/finding-Options-可兑换-Debt.html)\关于债务与股本的另一次讨论
 
-15. [Mark Suster on Convertible
-    Debt](http://www.bothsidesofthetable.com/2012/09/05/the-truth-about-convertible-debt-at-startups-and-the-hidden-terms-you-didnt-understand/) \
+15. [Mark Suster on Convertible    Debt](http://www.bothsidesofthetable.com/2012/09/05/the-truth-about-convertible-debt-at-startups-and-the-hidden-terms-you-didnt-understand/) \
     An analysis of problems with convertible debt
 
 15.[MarkSuster关于可转换债务“(http：/www.bothsidesofthetable.com/2012/09/05/-有关可转换债务的真相-在创业公司和隐藏条款-你-不理解/)-对可转换债务问题的分析
@@ -1034,8 +1025,7 @@ authoritative source.
 
 16.[文书指南](https：/www.cliky.com/Transaction_Template/24)\clky文档和指南。一个很好的起点。
 
-17. [Announcing the
-    Safe](https://ycombinator.wpengine.com/announcing-the-safe-a-replacement-for-convertible-notes), **Paul
+17. [Announcing the    Safe](https://ycombinator.wpengine.com/announcing-the-safe-a-replacement-for-convertible-notes), **Paul
     Graham** \
     The simple agreement for future equity. A replacement for
     convertible notes.
@@ -1049,8 +1039,7 @@ authoritative source.
 
 18.[The Safe Primer](http：/www.y合ator.com/documents/)，*Carolynn Levy*\许多关于安全措施的详细信息，以及在各种情况下如何工作的例子。
 
-19. [The Handshake Deal
-    Protocol](https://www.ycombinator.com/handshake/), **Paul
+19. [The Handshake Deal Protocol](https://www.ycombinator.com/handshake/), **Paul
     Graham** \
     A standard protocol to help ensure that verbal commitments turn
     into transactions.
