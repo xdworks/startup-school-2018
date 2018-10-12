@@ -19,3 +19,6 @@
 * [How to Apply and Succeed at Y Combinator by Dalton Caldwell](16.md)
 * [Running Your Company by Patrick Collison](17.md)
 * [A Conversation with Elizabeth Iorns: Advice for Biotech Founders](18.md)
+* [Startup Technology - Technical Founder Advice](19.md)
+* [Fundraising Fundamentals By Geoff Ralston](20.md)
+* [A Conversation on Hard Tech with Eric Migicovsky](21.md)
