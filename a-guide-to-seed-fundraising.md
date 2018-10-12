@@ -663,8 +663,7 @@ authoritative source.
 
 **Sources**
 
-1.  [A Fundraising Survival
-    Guide](http://www.paulgraham.com/fundraising.html), **Paul
+1.  [A Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html), **Paul
     Graham** \
     Techniques for surviving and succeeding at fundraising
 
@@ -680,21 +679,18 @@ authoritative source.
     Funding](http://paulgraham.com/future.html), **Paul Graham** \
     How startup funding is evolving
 
-5.  [How to Convince
-    Investors](http://paulgraham.com/convince.html), **Paul Graham** \
+5.  [How to Convince Investors](http://paulgraham.com/convince.html), **Paul Graham** \
     How to convince investors to invest in you
 
 6.  [Investor Herd Dynamics](http://paulgraham.com/herd.html), **Paul
     Graham** \
     How investors think about investing in early stage companies
 
-7.  ["Venture
-    Deals"](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616), **Feld
+7.  ["Venture Deals"](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616), **Feld
     and Mendelson** \
     Essential elements of a venture deal (book)
 
-8.  [Raising Money for a
-    Startup](http://www.khanacademy.org/finance-economics/venture-capital-and-capital-markets/v/raising-money-for-a-startup), **Sal
+8.  [Raising Money for a    Startup](http://www.khanacademy.org/finance-economics/venture-capital-and-capital-markets/v/raising-money-for-a-startup), **Sal
     Khan** \
     Startup Fundraising from Sal Khan
 
@@ -703,13 +699,11 @@ authoritative source.
     Nivi** \
     Discussion on debt vs. equity
 
-10. [Venture Hacks: First
-    Time](http://venturehacks.com/articles/first-time), **Babak
+10. [Venture Hacks: First Time](http://venturehacks.com/articles/first-time), **Babak
     Nivi** \
     Advice for first time fundraisers.
 
-11. [How Much Money To
-    Raise](http://www.avc.com/a_vc/2011/07/how-much-money-to-raise.html), **Fred
+11. [How Much Money To Raise](http://www.avc.com/a_vc/2011/07/how-much-money-to-raise.html), **Fred
     Wilson** \
     Advice on how much money to raise.
 
@@ -717,23 +711,19 @@ authoritative source.
     Graham** \
     Description of a startup.
 
-13. [Venture Hacks / Babk Nivi: Should I Raise Debt or
-    Equity](http://venturehacks.com/articles/debt-or-equity) \
+13. [Venture Hacks / Babk Nivi: Should I Raise Debt or    Equity](http://venturehacks.com/articles/debt-or-equity) \
     Discussion of whether raising debt or equity is the best answer.
 
-14. [Fred Wilson: Financing
-    Options](http://www.avc.com/a_vc/2011/07/financing-options-convertible-debt.html) \
+14. [Fred Wilson: Financing    Options](http://www.avc.com/a_vc/2011/07/financing-options-convertible-debt.html) \
     Another discussion of debt vs. equity
 
-15. [Mark Suster on Convertible
-    Debt](http://www.bothsidesofthetable.com/2012/09/05/the-truth-about-convertible-debt-at-startups-and-the-hidden-terms-you-didnt-understand/) \
+15. [Mark Suster on Convertible    Debt](http://www.bothsidesofthetable.com/2012/09/05/the-truth-about-convertible-debt-at-startups-and-the-hidden-terms-you-didnt-understand/) \
     An analysis of problems with convertible debt
 
 16. [Clerky Guide](https://www.clerky.com/transaction_templates/24) \
     Clerky docs and guides. A great place to start.
 
-17. [Announcing the
-    Safe](https://ycombinator.wpengine.com/announcing-the-safe-a-replacement-for-convertible-notes), **Paul
+17. [Announcing the    Safe](https://ycombinator.wpengine.com/announcing-the-safe-a-replacement-for-convertible-notes), **Paul
     Graham** \
     The simple agreement for future equity. A replacement for
     convertible notes.
@@ -743,8 +733,7 @@ authoritative source.
     Lots of detailed information on the safe and examples as to how it
     works in various cases.
 
-19. [The Handshake Deal
-    Protocol](https://www.ycombinator.com/handshake/), **Paul
+19. [The Handshake Deal Protocol](https://www.ycombinator.com/handshake/), **Paul
     Graham** \
     A standard protocol to help ensure that verbal commitments turn
     into transactions.
