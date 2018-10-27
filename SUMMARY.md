@@ -1,6 +1,6 @@
-# Startup School 2018
+# Summary
 
-
+* [Introduction](README.md)
 * [YC Partners Adora Cheung and Geoff Ralston introduce Startup School 2018](01.md)
 * [Sam Altman - How to Succeed with a Startup](02.md)
 * [Carolynn Levy And Panel (Jon Levy， Jason Kwon) - Startup Legal Mechanics](03.md)
