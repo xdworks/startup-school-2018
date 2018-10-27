@@ -21,7 +21,7 @@
 * [A Conversation with Elizabeth Iorns: Advice for Biotech Founders](18.md)
 * [Startup Technology - Technical Founder Advice](19.md)
 * [Fundraising Fundamentals By Geoff Ralston](20.md)
-* [A Conversation on Hard Tech with Eric Migicovsky](21.md)
+* [A Conversation on Hard Tech with Eric Migicovsky](21.zh-si.md)
 * [Understanding SAFEs and Priced Equity Rounds by Kirsty Nathoo](22.zh-si.md)
 * [How to Get Meetings with Investors and Raise Money by Aaron Harris](23.zh-si.md)
 * [A Conversation with Elad Gil](24.zh-si.md)
