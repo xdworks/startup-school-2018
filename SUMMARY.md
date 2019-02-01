@@ -26,5 +26,5 @@
 * [How to Get Meetings with Investors and Raise Money by Aaron Harris](23.zh-si.md)
 * [A Conversation with Elad Gil](24.zh-si.md)
 * [The Path to $100B by Paul Buchheit](25.zh-si.md)
-* [After PMF: People, Customers, Sales by Mathilde Collin](26.md)
-* [How to Win by Daniel Gross](27.md)
+* [After PMF: People, Customers, Sales by Mathilde Collin](26.zh-si.md)
+* [How to Win by Daniel Gross](27.zh-si.md)
