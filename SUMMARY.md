@@ -34,12 +34,12 @@
 ## Week 6
 
 * [Running Your Company](17.md)
-* [A Conversation with Elizabeth Iorns](18.md)
+* [A Conversation with Elizabeth Iorns](18.zh-si.md)
 
 ## Week 7
 
 * [Startup Technology](19.md)
-* [Fundraising Fundamentals](20.md)
+* [Fundraising Fundamentals](20.zh-si.md)
 * [A Conversation on Hard Tech with Eric Migicovsky](21.zh-si.md)
 
 ## Week 8
