@@ -4,8 +4,8 @@
 
 * [Introduction to the Course](01.zh-si.md)
 * [How to Succeed with a Startup](02.zh-si.md)
-* [Startup Legal Mechanics](03.md)
-* [A Conversation with Paul Graham](04.md)
+* [Startup Legal Mechanics](03.zh-si.md)
+* [A Conversation with Paul Graham](04.zh-si.md)
 
 ## Week 2
 
