@@ -2,8 +2,8 @@
 
 ## Week 1
 
-* [Introduction to the Course](01.md)
-* [How to Succeed with a Startup](02.md)
+* [Introduction to the Course](01.zh-si.md)
+* [How to Succeed with a Startup](02.zh-si.md)
 * [Startup Legal Mechanics](03.md)
 * [A Conversation with Paul Graham](04.md)
 
