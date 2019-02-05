@@ -9,8 +9,8 @@
 
 ## Week 2
 
-* [Building Product](06.md)
-* [How To Find Product Market Fit](05.md)
+* [Building Product](06.zh-si.md)
+* [How To Find Product Market Fit](05.zh-si.md)
 * [A Conversation with Ooshma Garg](07.md)
 
 ## Week 3
